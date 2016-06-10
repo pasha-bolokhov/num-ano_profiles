@@ -1,0 +1,5 @@
+#
+#
+  rm -f profiles.o profiles
+  make && echo -n "Executing.. " && ./profiles && echo && ./plots && echo "Plots done"
+

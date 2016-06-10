@@ -1,0 +1,5 @@
+#
+#
+ ./a.plot.zero > a_zero.ps
+ ./phi.plot.zero > phi_zero.ps
+

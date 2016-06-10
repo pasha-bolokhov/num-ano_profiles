@@ -1,0 +1,7 @@
+#
+#
+ ./a_inf.plot > a_inf.ps
+ ./phi_inf.plot > phi_inf.ps
+
+echo "Infinity plots done"
+

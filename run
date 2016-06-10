@@ -1,0 +1,4 @@
+#
+#
+  make && echo -n "Executing.. " && ./profiles && echo && ./plots && echo "Plots done"
+

@@ -1,0 +1,25 @@
+From ayung@physics.umn.edu Tue Oct 28 09:45:38 2003
+Date: Tue, 28 Oct 2003 11:21:25 -0600 (CST)
+From: Alexei Yung <ayung@physics.umn.edu>
+To: Pavel A. Bolokhov <bolokhov@uvic.ca>
+Subject: Re:
+
+
+Privet Pavel,
+
+Horosho esli u vas est' vremia zanimatsia etoi zadachei.
+
+Konechno, pregde chem pristupat' k sisteme iz 4-eh uravnenii
+ili k eshe bolee slognim zadacham nado polnostu razobratsia s
+uravneniiami Bogomol'nogo. Uravnenia , kotorie vi
+napisali pravil'nie, ih i nado reshat'.
+Dlia  menia ostaetsia neponiatnim vopros: chto budet esli vi vozmete
+neseloe f(0), naprimer 1/2 ili 1/3? Vi dolgni videt',
+chto v etom sluchae reshenie vzrivaetsia na beskonechnosti.
+Posmotrite, chto proishodit s vashimi resheniami pri
+neselih f(0) pri bol'shih x i sravnite eto povedenie
+s povedeniem reshenii pri selih f(0)
+
+Vsego nailuchshego,
+Alexei
+

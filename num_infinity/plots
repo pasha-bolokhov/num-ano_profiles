@@ -1,0 +1,7 @@
+#
+#
+ ./a.plot > a.ps
+ ./phi.plot > phi.ps
+echo "Plots executed"
+ ./plots_inf
+

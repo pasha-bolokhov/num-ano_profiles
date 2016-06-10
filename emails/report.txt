@@ -1,0 +1,38 @@
+
+
+   Issledovania po teme "Trubki potoka v Supersimmetrichnyh kalibrovochnih
+teoriyah"
+
+
+   Predvaritelnaya zadacha sostoit v chislennom reshenii neabelevyh uravnenii
+Bogomolnogo voznikaushih pri rassmotrenii neabelevyh vihrei N=2 supersimmetrichnoi KXD 
+s kalibrovochnoi gruppoi SU(N), narushennoi do   SU(N-1) x U(1).
+   Promezhutocnyy etap - reshenie abelevyh uravnenii Bogomolnogo v strunah
+Abrikosova-Nilsena-Olesena - nahoditsya v stadii zaversheniya. Vyrabotan metod
+polucheniya grafika funkzii reshenii uravnenii Bogomolnogo, daushii adekvatnoe
+povedenie profil'nyh funkzii v predelah  "r -> 0" i  "r -> oo (infinity)".
+   V dalneishem planiruetsya dovesti do konza issledovanie uravnenii Bogomolnogo
+s zel'u adekvatnogo primeneiya poluchennogo metoda k neabelevym uravneniyam
+Bogomolnogo, a takzhe neposredstvenno, poluchenie konkretnyh grafikov reshenii
+neabelevyh uravnenii.
+
+   Vo vremya issledovaniya byl izuchen sleduushii material:
+
+    "Nonabelian Superconductors: vortices and confinement in N=2 SQCD",
+      hep-th/0307287, R.Auzzi et al.
+
+    "Type I Superconductivity upon Monopole Condensation in Seiberg-Witten
+     Theory", A.Vainshtein and A.Yung, hep-th/0012250
+
+    "Semilocal and Electroweak Strings", Ana Achucarro and 
+    Tanmay Vachaspati, hep-ph/9904229
+
+    "BUSSTEPP Lectures on Supersymmetry", J.M.Figueroa-O'Farrill, 
+    hep-th/0109172
+
+    "Duality in N=2 SUSY SU(2) Yang-Mills Theory: ..." A.Bilal, 
+    hep-th/9601007
+
+    "Introduction to S-Duality in N=2 Supersymmetric Gauge Theories",
+    L.Alvarez-Gaume and S.F.Hassan, hep-th/9701069
+
